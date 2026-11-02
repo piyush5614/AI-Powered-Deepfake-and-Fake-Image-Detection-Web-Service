@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+node_modules/
+dist/
+ml/data/*
+!ml/data/README.md
+ml/artifacts/samples/
+/data/
+*.db
+*.sqlite*
+.DS_Store
